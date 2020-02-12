@@ -25,4 +25,6 @@ Add additional notes about how to deploy this on a live system
 + [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The webframework used
 + [Maven](https://maven.apache.org/) - Dependency Management
 + [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+![](https://travel.mthai.com/app/uploads/2019/03/phuket-cover.jpg)
     
